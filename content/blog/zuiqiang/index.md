@@ -2,6 +2,8 @@
 title: Hello World
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
+cover: "../../../src/images/cover-1.jpg"
+category: "作品集"
 ---
 
 This is my first post on my new fake blog! How exciting!

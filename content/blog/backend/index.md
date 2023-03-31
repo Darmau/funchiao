@@ -1,6 +1,8 @@
 ---
 title: My Second Post!
 date: "2015-05-06T23:46:37.121Z"
+cover: "../../../src/images/cover-3.jpg"
+category: "项目总结"
 ---
 
 Wow! I love blogging so much already.
