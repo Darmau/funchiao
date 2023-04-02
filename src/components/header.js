@@ -1,28 +1,28 @@
 import React from "react"
-
+import { Link } from "gatsby"
 import { useState } from "react"
 import { Dialog } from "@headlessui/react"
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline"
 
 const navigation = [
-  { name: "关于我", href: "#" },
-  { name: "我的作品", href: "#" },
-  { name: "联系我", href: "#" },
+  { name: "关于我", href: "/#bio" },
+  { name: "我的作品", href: "/#projects" },
+  { name: "联系我", href: "mailto:lovelacetuff@gamil.com" },
 ]
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
 
   return (
-    <header className="fixed w-full">
+    <header className="w-full fixed top-0 z-10 bg-white/70 border-b transition-all duration-300 backdrop-blur-lg">
       <nav
         className="mx-auto flex max-w-7xl items-center justify-between p-6 lg:px-8"
         aria-label="Global"
       >
         <div className="flex lg:flex-1">
-          <a href="#" className="-m-1.5 p-1.5">
+          <Link to="/" className="-m-1.5 p-1.5">
             Funchiao
-          </a>
+          </Link>
         </div>
         <div className="flex lg:hidden">
           <button

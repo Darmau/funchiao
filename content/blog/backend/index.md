@@ -1,15 +1,27 @@
 ---
-title: My Second Post!
-date: "2015-05-06T23:46:37.121Z"
-cover: "../../../src/images/cover-3.jpg"
+title: 后台管理系统界面设计
+date: "2018-05-01T22:12:03.284Z"
+description: "本项目在对现有企业后台管理系统的视觉进行全新改版优化，以简约、轻量、微3d的风格为主线，注重用户体验和界面美感，提升系统整体的可用性和可视性。"
+cover: ../../../src/images/cover-2.jpg
 category: "项目总结"
 ---
 
-Wow! I love blogging so much already.
+![第一张](../../../src/images/backend/01.jpg)
 
-Did you know that "despite its name, salted duck eggs can also be made from
-chicken eggs, though the taste and texture will be somewhat different, and the
-egg yolk will be less rich."?
-([Wikipedia Link](https://en.wikipedia.org/wiki/Salted_duck_egg))
+![第二张](../../../src/images/backend/02.jpg)
 
-Yeah, I didn't either.
+![第三张](../../../src/images/backend/03.jpg)
+
+![第四张](../../../src/images/backend/04.jpg)
+
+![第五张](../../../src/images/backend/05.jpg)
+
+![第六张](../../../src/images/backend/06.jpg)
+
+![第七张](../../../src/images/backend/07.jpg)
+
+![第八张](../../../src/images/backend/08.jpg)
+
+![第九张](../../../src/images/backend/09.jpg)
+
+![第十张](../../../src/images/backend/10.jpg)

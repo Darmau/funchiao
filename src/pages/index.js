@@ -4,9 +4,7 @@ import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Projects from "../components/projects"
 
-const BlogIndex = ({ location }) => {
-
-
+const BlogIndex = () => {
   return (
     <Layout>
       <Bio />
@@ -16,3 +14,12 @@ const BlogIndex = ({ location }) => {
 }
 
 export default BlogIndex
+
+export function Head() {
+  return (
+    <>
+      <title>Funchiao</title>
+      <meta name="description" content="Funchiao's personal website" />
+    </>
+  )
+}
