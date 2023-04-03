@@ -25,6 +25,15 @@ const BlogPostTemplate = ({
 
 export default BlogPostTemplate
 
+export function Head() {
+  return (
+    <>
+      <title>Funchiao</title>
+      <meta name="description" content="Funchiao's personal website" />
+    </>
+  )
+}
+
 export const pageQuery = graphql`
   query BlogPostBySlug(
     $id: String!
