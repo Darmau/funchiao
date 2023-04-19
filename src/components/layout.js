@@ -6,11 +6,10 @@ import { Script } from "gatsby"
 const Layout = ({ children }) => {
   return (
     <>
-    <Script
+      <Script
         async
-        defer
-        data-website-id="cb78f122-72fa-44d5-bf34-2533b4641a42"
-        src="https://analytics.darmau.design/umami.js"
+        src="https://analytics.darmau.design/script.js"
+        data-website-id="12e6b15e-9ced-46d4-8b7f-45adb3c653f0"
       />
       <div className="bg-white">
         <Header />
