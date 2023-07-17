@@ -26,7 +26,7 @@ const Bio = () => {
             我是Funchiao，一个视觉设计师。生在汕头，长在深圳，现居成都。擅长平面设计、3D设计和插画。欢迎合作和交流！
           </p>
           <div className="mt-10 flex items-center gap-x-4">
-            <a href="mailto:lovelacetuff@gamil.com" target="_blank" rel="noreferrer">
+            <a href="mailto:design@funchiao.com" target="_blank" rel="noreferrer">
               <svg
                 width="32"
                 height="32"
