@@ -3,7 +3,7 @@ import React from "react"
 const navigation = [
   {
     name: "Mail",
-    href: "mailto:lovelacetuff@gamil.com",
+    href: "mailto:design@funchiao.com",
     icon: () => (
       <svg
         width="24"
