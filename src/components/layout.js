@@ -9,9 +9,7 @@ const Layout = ({ children }) => {
       <Script
         async
         src="https://analytics.darmau.design/script.js"
-        data-website-id="12e6b15e-9ced-46d4-8b7f-45adb3c653f0"
-        data-do-not-track="true"
-        data-cache="true"
+        data-website-id="ffe85285-a984-4819-9d68-bfb621d150ae"
       />
       <div className="bg-white">
         <Header />
